@@ -697,7 +697,7 @@ section:hover {
   font-weight: bolder;
   font-style: italic;
   line-height: 30px;
-  background-image: url(css/imgs/71SlEvuNs2L.jpg);
+  background-image: url(css/imgs/Santorini1__64011.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -748,7 +748,7 @@ section:hover {
   top: 50%;
   transform: translateY(-50%);
   font-size: 25px;
-  color: #efe8e8;
+  color: #0f0f0f;
 }
 
 .page4-parent .i2 {
@@ -757,7 +757,7 @@ section:hover {
   top: 50%;
   transform: translateY(-50%);
   font-size: 25px;
-  color: #f9f7f7;
+  color: #1b1a1a;
 }
 
 .page4-parent .i1:hover,
@@ -1155,7 +1155,6 @@ section:hover {
   height: 45px;
   width: 140px;
   background-color: #da6f69;
-  text-transform: capitalize;
   font-weight: bold;
 }
 
